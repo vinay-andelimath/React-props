@@ -1,2 +1,2 @@
 # React-props
-Created with CodeSandbox
+React properties simple demo
